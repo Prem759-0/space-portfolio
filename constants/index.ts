@@ -259,13 +259,19 @@ export const OTHER_SKILL = [
 ] as const;
 
 export const PROJECTS = [
-  
-  {
+   {
     title: "Teley V2 - Real-time Chat & Video Calling App",
     description:
       'Teley V2 is a modern real-time messaging and video calling application built with Next.js, featuring seamless group chats, high-quality video calls, and a beautiful, responsive interface — designed to deliver a smooth and immersive communication experience.',
-    image: "/projects/project-1.png",
+    image: "/projects/project-4.png",
     link: "https://tele-y-2.vercel.app/",
+  },
+  {
+    title: "Full SaaS Whiteboard App – Next.js + Clerk + Convex + Liveblocks (Ready-to-Deploy)",
+    description:
+      'A modern collaborative Whiteboard SaaS application built with Next.js 16, React 19, Clerk, Convex, and Liveblocks. Featuring real-time multiplayer collaboration, live cursors, organizations, authentication, interactive canvas tools, and a polished dashboard experience. Designed as a production-ready foundation for building whiteboard platforms, team collaboration tools, or learning advanced full-stack development with modern web technologies.',
+    image: "/projects/project-5.png",
+    link: "https://canvra.vercel.app/",
   },
   {
     title: "Modern Next.js 14 Portfolio",
@@ -275,22 +281,16 @@ export const PROJECTS = [
     link: "https://tele-y-2.vercel.app/",
   },
   {
-    title: "Interactive Cards Portfolio",
-    description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
-  },
-  {
     title: "Space Themed Website",
     description:
       'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://space-portfolio-xi-pied.vercel.app/",
   },
 ] as const;
 
 export const FOOTER_DATA = [
+
   {
     title: "Community",
     data: [
