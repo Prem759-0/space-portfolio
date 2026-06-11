@@ -259,12 +259,20 @@ export const OTHER_SKILL = [
 ] as const;
 
 export const PROJECTS = [
+  
+  {
+    title: "Teley V2 - Real-time Chat & Video Calling App",
+    description:
+      'Teley V2 is a modern real-time messaging and video calling application built with Next.js, featuring seamless group chats, high-quality video calls, and a beautiful, responsive interface — designed to deliver a smooth and immersive communication experience.',
+    image: "/projects/project-1.png",
+    link: "https://tele-y-2.vercel.app/",
+  },
   {
     title: "Modern Next.js 14 Portfolio",
     description:
       'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "https://tele-y-2.vercel.app/",
   },
   {
     title: "Interactive Cards Portfolio",
@@ -361,5 +369,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/Prem759-0/space-portfolio",
+  sourceCode: "https://github.com/Prem759-0/space-portfolio.git",
 };
