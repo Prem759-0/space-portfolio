@@ -32,15 +32,16 @@ export const SKILL_DATA = [
     width: 80,
     height: 80,
   },
-  {
+   {
     skill_name: "React",
-    image: "bootstrap.png",
+    image: "react.png",
     width: 80,
     height: 80,
   },
+ 
   {
-    skill_name: "Redux",
-    image: "redux.png",
+    skill_name: "Clerk",
+    image: "clerk.svg",
     width: 80,
     height: 80,
   },
@@ -108,34 +109,34 @@ export const SOCIALS = [
 
 export const FRONTEND_SKILL = [
   {
-    skill_name: "HTML",
-    image: "html.png",
+    skill_name: "Claude ai",
+    image: "claude.svg",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "CSS",
-    image: "css.png",
+    skill_name: "Kimi ai",
+    image: "kimiai.svg",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "JavaScript",
-    image: "js.png",
+    skill_name: "Shadcn UI",
+    image: "shadcn.svg",
     width: 65,
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
+    skill_name: "Netlify.svg",
+    image: "netlify.svg",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Material UI",
-    image: "mui.png",
-    width: 80,
-    height: 80,
+    skill_name: "Vercel",
+    image: "vercel.svg",
+    width: 70,
+    height: 70,
   },
   {
     skill_name: "React",
@@ -213,8 +214,8 @@ export const BACKEND_SKILL = [
     height: 70,
   },
   {
-    skill_name: "Graphql",
-    image: "graphql.png",
+    skill_name: "Postman",
+    image: "postman.svg",
     width: 80,
     height: 80,
   },
@@ -228,10 +229,10 @@ export const FULLSTACK_SKILL = [
     height: 70,
   },
   {
-    skill_name: "Tauri",
-    image: "tauri.png",
-    width: 70,
-    height: 70,
+    skill_name: "Material UI",
+    image: "mui.png",
+    width: 80,
+    height: 80,
   },
   {
     skill_name: "Docker",
@@ -250,8 +251,8 @@ export const FULLSTACK_SKILL = [
 
 export const OTHER_SKILL = [
   {
-    skill_name: "Go",
-    image: "go.png",
+    skill_name: "GitHub",
+    image: "git.svg",
     width: 60,
     height: 60,
   },
