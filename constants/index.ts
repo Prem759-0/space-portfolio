@@ -273,6 +273,22 @@ export const PROJECTS = [
     image: "/projects/project-5.png",
     link: "https://canvra.vercel.app/",
   },
+
+  {
+    title: "YouTube V2 – Full Stack YouTube Clone",
+    description:
+      'A modern YouTube Clone built with Next.js 15, React 19, TypeScript, and Tailwind CSS, featuring video discovery, authentication, responsive design, and scalable full-stack architecture. Currently under active development.',
+    image: "/projects/project-6.png",
+    link: "https://github.com/Prem759-0/youtube-v2.git",
+  },
+
+  {
+    title: "GreenCart V2 – Full Stack E-Commerce Platform",
+    description:
+      'Embark on a journey through modern eCommerce development with GreenCart V2 — a full-featured online shopping platform built using modern web technologies. More than just a store, it showcases scalable architecture, intuitive user experiences, product management, secure authentication, shopping cart workflows, and real-world eCommerce functionality, reflecting the standards of contemporary online marketplaces.',
+    image: "/projects/project-7.png",
+    link: "https://greencartv2.vercel.app/",
+  },
   {
     title: "Modern Next.js 14 Portfolio",
     description:
@@ -307,7 +323,7 @@ export const FOOTER_DATA = [
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com/users/a70064182",
+        link: "https://discordapp.com/users/full_stack_webe_dev_83890",
       },
     ],
   },
