@@ -165,7 +165,7 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/Prem759-0/space-portfolio&Timeline">
+<a href="https://star-history.com/#Prem759-0/space-portfolio&Timeline">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Prem759-0/space-portfolio&type=Timeline&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Prem759-0/space-portfolio&type=Timeline" />
