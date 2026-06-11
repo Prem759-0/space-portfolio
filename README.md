@@ -142,10 +142,7 @@ Useful resources and dependencies that are used in Space Portfolio.
 <!--- DEPENDENCIES_END --->
 
 
-## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Prem759-0?style=social&label=Follow&maxAge=2592000)](https://github.com/Prem759-0 "Follow Me")
-[![Twitter](http://twitter.com/@a70064182)](https://x.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2FPrem759-0%2Fspace-portfolio "Tweet")
 
 ## :books: Learn More
 
