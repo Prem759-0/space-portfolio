@@ -49,12 +49,17 @@ export const HeroContent = () => {
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
 
-        <motion.a
+                       <motion.a
           variants={slideInFromLeft(1)}
+          href="https://github.com/Prem759-0" // Added this line
+          target="_blank" // Added this line
+          rel="noopener noreferrer" // Added this line
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
           Learn more
         </motion.a>
+
+
       </div>
 
       <motion.div
